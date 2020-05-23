@@ -1,6 +1,6 @@
 {
   "name": "distance-between-geocoordinates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package calculates the distance between two Geo Co-ordinates (Latitude and Longitude) and converts the distance to various units (m,km, miles, feet, yard, nautical mile, etc).",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/test"
+    "url": "https://github.com/nxncode/distance-between-geocoordinates.git"
   },
   "keywords": [
+    "Distance between Geo Coorinates",
+    "Distance between two Earth Points",
     "Distance",
-    "between",
-    "Geo",
-    "Coorindates"
+    "Earth Distance"
   ],
   "author": "Nixon Augustine",
   "license": "MIT"
